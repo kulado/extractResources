@@ -1,10 +1,12 @@
-# Resources Saver Extension (Chrome)
+# Extract Resources Extension (Chrome)
 
-### Chrome Extension for one click downloading all resources files and keeping folder structures.
+### Chrome Extension for extracting files from resources tab and maintaining folder structures.
 
 Extension can be found here:
 
-https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en-US
+https://chrome.google.com/webstore/detail/extract-mapped-resources/blnmglmhcinfananhhappoiemamemhbm?hl=en
+
+Initial fork from [up209d](https://github.com/up209d/ResourcesSaverExt)
 
 - 0.1.4: Change download file name into corresponding domain name instead of 'all.zip'
 
@@ -34,8 +36,8 @@ https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablah
 
 - 0.0.1: Download all webpages by re-dowloading them from resource-urls.
 
-![alt text](https://github.com/up209d/ResourcesSaverExt/blob/master/screenshot.png?raw=true)
+![alt text](https://github.com/kulado/extractResources/blob/master/screenshot.png?raw=true)
 
 Output results with same structure as online sources:
 
-![alt text](https://github.com/up209d/ResourcesSaverExt/blob/master/screenshot2.png?raw=true)
+![alt text](https://github.com/kulado/extractResources/blob/master/screenshot2.png?raw=true)

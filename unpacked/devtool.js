@@ -1,6 +1,6 @@
 //console.log('Hello from -> Devtool');
 chrome.devtools.panels.create(
-	"ResourcesSaver",
+	"ExtractResources",
 	"icon.gif",
 	"content.html",
 	function(panel) { 
